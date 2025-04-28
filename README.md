@@ -1,5 +1,3 @@
-# Open This Notebook in nbviewer:
-
-[![Open In nbviewer](https://nbviewer.org/github/theokitsberg/llm-moral-psych-stability/blob/main/LLM_Moral_Psych_Experiment.ipynb)
+Explored the moral stability of large language models by investigating what I call moral drift. I focused on three levels of evaluation: first, how consistent models are in their moral decision-making when responding to ethical dilemmas under standard versus high-pressure conditions; second, how stable their moral judgments are when those judgments are subjected to direct philosophical critique or pushback; and third, how well a model's own decisions align with its evaluative reasoning—in other words, whether the models judge actions (their own or others') in a way that's coherent with how they make decisions themselves. The goal wasn't to decide if a model is moral, but to understand how its moral reasoning holds together when challenged or strained
 
 
